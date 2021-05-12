@@ -2,4 +2,5 @@
 <manifest>
   <!-- Lineage-PixelOS additions -->
   <project path="vendor/lineagepixelos" name="Lineage-PixelOS/android_vendor_lineage_pixelos" />
+  <project path="frameworks/base" name="Lineage-PixelOS/android_frameworks_base" />
 </manifest>
