@@ -11,6 +11,6 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
   
-  <project path="vendor/lineagepixelos" name="Lineage-PixelOS/android_vendor_lineage_pixel" />
+  <project path="vendor/lineagepixelos" name="Lineage-PixelOS/android_vendor_lineage_pixelos" />
   <project path="frameworks/base" name="Lineage-PixelOS/android_frameworks_base" />
 </manifest>
