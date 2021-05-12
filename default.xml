@@ -778,6 +778,7 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/lineage-pixel.xml" />
+  <include name="snippets/others.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
